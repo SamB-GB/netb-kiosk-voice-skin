@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "netb-hearth-voice-skin",
+  "name": "Hearth",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "minAndroidSdk": 24,
+  "minAppVersion": "2026.10.45",
+  "entryClass": "uk.netb.kiosk.hearth.HearthVoiceSkin",
+  "description": "NETb Home's Hearth look for Voice Satellite: a warm card near the bottom of the screen, a violet orb that moves with your voice, and the conversation in Hearth's type. Light, dark and docked.",
+  "author": "SamB-GB",
+  "license": "Apache-2.0",
+  "capabilities": ["overlay", "host.read", "voice.skin", "voice.text"],
+  "icon": "icon.png",
+  "voiceSkinThumbnail": "voice-skin.png",
+  "settings": []
+}
